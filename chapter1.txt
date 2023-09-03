@@ -3,4 +3,5 @@ git init - set git config
 ls -a - show hide folder list
 git status - show status of git file
 git add .(all) -add all files to git
+git commit -m "Text to commit" - commit git data
 git log - show log of git
