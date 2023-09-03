@@ -4,5 +4,15 @@ ls -a - show hide folder list
 git status - show status of git file
 git add .(all) -add all files to git
 git commit -m "Text to commit" - commit git data
-git log - show log of git
-git checkout nameOfFile - to checkout
+git log //show log of git
+git checkout nameOfFile //to checkout
+git push -u origin master //push to github
+
+
+touch .gitignore
+git rm --cached -r .  //clear cached will ignore
+
+
+git branch nameofbranch  //to branch git
+git branch  //tocheck branch
+git checkout nameofbranch //change to branch
