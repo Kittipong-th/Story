@@ -8,7 +8,7 @@ git log //show log of git
 git checkout nameOfFile //to checkout reverse before version
 
 git remote add origin https://github.com/Kittipong-th/Story.git
-git push -u origin master //push to github
+git push -u origin //push to github
 
 
 touch .gitignore
