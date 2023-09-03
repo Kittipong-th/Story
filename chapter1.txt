@@ -1,1 +1,6 @@
 It was created the best of times.
+git init - set git config
+ls -a - show hide folder list
+git status - show status of git file
+git add .(all) -add all files to git
+git log - show log of git
