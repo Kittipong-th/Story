@@ -6,6 +6,8 @@ git add .(all) -add all files to git
 git commit -m "Text to commit" - commit git data
 git log //show log of git
 git checkout nameOfFile //to checkout reverse before version
+
+git remote add origin https://github.com/Kittipong-th/Story.git
 git push -u origin master //push to github
 
 
@@ -16,3 +18,8 @@ git rm --cached -r .  //clear cached will ignore
 git branch nameofbranch  //to branch git
 git branch  //tocheck branch
 git checkout nameofbranch //change to branch
+git add .
+git commit -m "Name Updated"
+git log 
+git checkout main
+git merge nameofbranch //merge to main branch
