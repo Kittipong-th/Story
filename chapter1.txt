@@ -5,3 +5,4 @@ git status - show status of git file
 git add .(all) -add all files to git
 git commit -m "Text to commit" - commit git data
 git log - show log of git
+git checkout nameOfFile - to checkout
